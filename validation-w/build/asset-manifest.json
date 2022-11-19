@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e2dc2521.css",
+    "main.js": "/static/js/main.1e0e8716.js",
+    "static/media/welcome-to-bitechchain.png": "/static/media/welcome-to-bitechchain.831568019b9a2036cf93.png",
+    "index.html": "/index.html",
+    "main.e2dc2521.css.map": "/static/css/main.e2dc2521.css.map",
+    "main.1e0e8716.js.map": "/static/js/main.1e0e8716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2dc2521.css",
+    "static/js/main.1e0e8716.js"
+  ]
+}
